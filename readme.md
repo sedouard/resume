@@ -1,13 +1,18 @@
-# Building Your Resume the Geek Way
+# Building Your Resume Like a Bauss with CI
 
 ## Introduction
 
-This repository has all you need to deploy and create your own resume. We are using the nifty [resume-cli](https://www.npmjs.org/package/resume-cli) to compile our resume from a JSON schema into HTML and even PDF. This guide will walk through how to use Azure Websites Continuous Integration to validate and git deploy your resume!
+If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration deployment using git. Seriously! You can find the live resume **[here](http://sedouard-resume.azurewebsites.net)**.
+
+What other way can you show you know the agile development lifecycle by expressing it through your resume itself. It's just a few easy steps.
+
+Here you'll find all you need to deploy and create your own resume. We are using the nifty [resume-cli](https://www.npmjs.org/package/resume-cli) command line tool to compile our resume from a JSON schema into HTML and even PDF. This guide will walk through how to use Continuous Integration to validate and git deploy your resume!
 
 ## Getting Setup
 
 You're going to want to first **fork** this repository. Then install the resume command line interface (cli) globally:
 
+(hint: make sure you have **[nodejs](http://nodejs.org)** installed first!!)
 
 ```bash
 # You may have to do sudo npm install depending on your system
@@ -15,11 +20,11 @@ npm install resume-cli -g
 
 ```
 
-Now, install the required packages
+Now, cd to this repository install the required packages
 
 
 ```bash
-
+cd ./path-to-your-local-repo
 npm install
 
 ```
@@ -61,7 +66,7 @@ The above json is truncated, checkout **[resume.json](./resume.json)** for the f
 
 To git deploy to an Azure website you'll need to have an Azure subscription.
 
-Get an Azure Account by either getting a [free trial](http://azure.microsoft.com/en-us/pricing/free-trial/), a token from me which looks like this:
+Get an Azure Account by either getting a [free trial](http://azure.microsoft.com/en-us/pricing/free-trial/), a token from me, @sedouard which looks like this:
 
 ![](ScreenShots/ss0-0.png)
 
@@ -121,7 +126,7 @@ Now almost immeditley you'll see Azure Websites go to work:
 This repository contains a **.deployment** and **deploy.cmd** scripts which are specific deployment files for Azure websites. These files were generated with the azure command line interface. To create these files yourself do:
 
 ```bash
-npm install azure-cli
+npm install azure-cli -g
 azure site deploymentscript --basic --sitePath .
 ```
 
@@ -132,9 +137,9 @@ REM Use the Executecmd macro to execute and validate the command worked
 echo Building Resume
 call :Executecmd npm install
 IF !ERRORLEVEL! NEQ 0 goto error
+REM This creates the **index.html** which is deployed by Azure Websites.
 call :Executecmd node .\node_modules\resume-cli\index.js export index -f html
 IF !ERRORLEVEL! NEQ 0 goto error
 ```
-This creates the **index.html** which is deployed by Azure Websites.
 
 Hope this guide inspires you to 'build' your own resume!
