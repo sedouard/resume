@@ -56,7 +56,8 @@ echo Handling Basic Web Site deployment.
 
 echo Building Resume
 npm install
-node .\node_modules\resume-cli\index.js export index -f html
+call :Executecmd node .\node_modules\resume-cli\index.js export index -f html
+IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 1. KuduSync
 IF /I "%IN_PLACE_DEPLOYMENT%" NEQ "1" (
