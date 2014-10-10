@@ -122,5 +122,19 @@ This repository contains a **.deployment** and **deploy.cmd** scripts which are 
 
 ```bash
 npm install azure-cli
-azure 
+azure site deploymentscript --basic --sitePath .
+```
 
+Then the deployment script was modified to run the locally install resume-cli node package. Here's what was added to **deploy.cmd**:
+
+```batch
+REM Use the Executecmd macro to execute and validate the command worked
+echo Building Resume
+call :Executecmd npm install
+IF !ERRORLEVEL! NEQ 0 goto error
+call :Executecmd node .\node_modules\resume-cli\index.js export index -f html
+IF !ERRORLEVEL! NEQ 0 goto error
+```
+This creates the **index.html** which is deployed by Azure Websites.
+
+Hope this guide inspires you to 'build' your own resume!
