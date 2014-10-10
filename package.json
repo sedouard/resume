@@ -1,0 +1,13 @@
+{
+  "name": "Steven-Resume",
+  "version": "0.0.0",
+  "description": "Azure TED Continous Integration Demo",
+  "main": "app.js",
+  "author": {
+    "name": "sedouard",
+    "email": ""
+  },
+  "dependencies": {
+    "resume-cli": "^0.3.10"
+  }
+}
