@@ -55,6 +55,7 @@ IF NOT DEFINED KUDU_SYNC_CMD (
 echo Handling Basic Web Site deployment.
 
 echo Building Resume
+npm install
 node .\node_modules\resume-cli\index.js export index -f html
 
 :: 1. KuduSync
