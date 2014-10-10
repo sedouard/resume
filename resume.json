@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Steven Edouard",
+    "label": "Devleoper Evangelist",
+    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg",
+    "email": "steven.edouard1@gmail.com",
+    "website": "http://stevenedouard.com",
+    "summary": "I'm a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to persue a role where I can have high impact on a product.",
+    "location": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "sedouard",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "sedouard",
+        "url": "https://github.com/sedouard"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Microsoft",
+      "position": "Developer Evangelist",
+      "website": "http://microsoft.com",
+      "startDate": "2014-03-04",
+      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "highlights": [
+        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
+        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
+        "Delivered dozens of original technical presentations from high school to pro developers"
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "position": "Software Development Engineer in Test, Common Language Runtime",
+      "website": "http://www.microsoft.com/net",
+      "startDate": "2012-01-22",
+      "endDate": "2014-03-04",
+      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "highlights": [
+        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
+        "Leveraged Visual Studio Text Explorer by extending it to run end-to-end scenario tests ",
+        "Assisted in customer onboarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
+        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+      ]
+    },
+    {
+      "company": "Lockheed Martin Mission Systems and Sensors",
+      "position": "Software Engineer Intern ",
+      "website": "http://www.lockheedmartin.com",
+      "startDate": "2008-01-22",
+      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
+      "highlights": [
+        "Designed system requirements for autonomous underwater vehicle ",
+        "Designed and implemented features on common software for use with multiple vehicles ",
+        "Performed software cost estimates",
+        "Implemented software features for sonar system displays"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TEALS",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-07-01",
+      "endDate": "2013-05-05",
+      "summary": "Highschool Teacher for an inner-city computer science class.",
+      "highlights": [
+        "Featured in the International New York Times"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Florida",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-08-01",
+      "endDate": "2011-12-01",
+      "gpa": "3.47"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Visual Studio Team Excellence Light House Award",
+      "date": "2013-04-01",
+      "awarder": "Visual Studio Team - Microsoft",
+      "summary": "Given to member of the Visual Studio team who go above and beyond their role."
+    }
+  ],
+  "skills": [
+    {
+      "name": "C# and .NET",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": [
+        "javascript",
+        "express"
+      ]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "Master",
+      "keywords": [
+        "PaaS",
+        "Storage",
+        "APIs"
+      ]
+    },
+    {
+      "name": "iOS Application Development",
+      "level": "Intermediate",
+      "keywords": [
+        "iOS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
