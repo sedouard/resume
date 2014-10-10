@@ -55,7 +55,8 @@ IF NOT DEFINED KUDU_SYNC_CMD (
 echo Handling Basic Web Site deployment.
 
 echo Building Resume
-npm install
+call :Executecmd npm install
+IF !ERRORLEVEL! NEQ 0 goto error
 call :Executecmd node .\node_modules\resume-cli\index.js export index -f html
 IF !ERRORLEVEL! NEQ 0 goto error
 
