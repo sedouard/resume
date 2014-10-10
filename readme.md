@@ -66,7 +66,7 @@ The above json is truncated, checkout **[resume.json](./resume.json)** for the f
 
 To git deploy to an Azure website you'll need to have an Azure subscription.
 
-Get an Azure Account by either getting a [free trial](http://azure.microsoft.com/en-us/pricing/free-trial/), a token from me, @sedouard which looks like this:
+Get an Azure Account by either getting a [free trial](http://azure.microsoft.com/en-us/pricing/free-trial/), or a token from me, @sedouard which looks like this:
 
 ![](ScreenShots/ss0-0.png)
 
