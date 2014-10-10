@@ -128,4 +128,5 @@ This repository contains a **.deployment** and **deploy.cmd** scripts which are 
 ```bash
 npm install azure-cli
 azure 
+```
 
