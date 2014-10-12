@@ -1,6 +1,7 @@
 # Building Your Resume Like a Bauss with CI
 
-[Build Status](https://travis-ci.org/sedouard/resume.svg?branch=master)
+![BuildStatus](https://travis-ci.org/sedouard/resume.svg?branch=master)
+
 
 ## Introduction
 
