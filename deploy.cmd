@@ -57,7 +57,7 @@ echo Handling Basic Web Site deployment.
 echo Building Resume
 call :Executecmd npm install
 IF !ERRORLEVEL! NEQ 0 goto error
-call :Executecmd node .\node_modules\resume-cli\index.js export index -f html
+call :Executecmd npm test
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 1. KuduSync
