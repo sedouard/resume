@@ -1,5 +1,8 @@
 # Building Your Resume Like a Bauss with CI
 
+![BuildStatus](https://travis-ci.org/sedouard/resume.svg?branch=master)
+
+
 ## Introduction
 
 If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration deployment using git. Seriously! You can find the live resume **[here](http://sedouard-resume.azurewebsites.net)**.
