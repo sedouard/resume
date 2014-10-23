@@ -52,7 +52,7 @@
       "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
       "highlights": [
         "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Leveraged Visual Studio Text Explorer by extending it to run end-to-end scenario tests ",
+        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
         "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
         "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
       ]
