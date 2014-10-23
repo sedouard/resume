@@ -5,7 +5,7 @@
 
 ## Introduction
 
-If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration integration. Seriously! You can find the live resume **[here](http://resume.stevenedouard.com)**.
+If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration. Seriously! You can find the live resume **[here](http://resume.stevenedouard.com)**.
 
 What other way can you show you know the agile development lifecycle by expressing it through your resume itself. It's just a few easy steps.
 
@@ -73,7 +73,7 @@ Get an Azure Account by either getting a [free trial](http://azure.microsoft.com
 
 ![](ScreenShots/ss0-0.png)
 
-If you're working on a Startup signup for [Bizspark](http//bizspark.com) or tweet at me [@sedouard](http://twitter.com/sedouard] with your plan and I'll get you a bizspark token for free Azure usage for 3 years.
+If you're working on a Startup signup for [Bizspark](http//bizspark.com) or tweet at me [@sedouard](http://twitter.com/sedouard) with your plan and I'll get you a bizspark token for free Azure usage for 3 years.
 
 
 After you get your subscription create a new website:
