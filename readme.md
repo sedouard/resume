@@ -5,7 +5,7 @@
 
 ## Introduction
 
-If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration integration. Seriously! You can find the live resume **[here](http://resume.stevenedouard.com)**.
+If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration. Seriously! You can find the live resume **[here](http://resume.stevenedouard.com)**.
 
 What other way can you show you know the agile development lifecycle by expressing it through your resume itself. It's just a few easy steps.
 
