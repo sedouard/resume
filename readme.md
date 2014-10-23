@@ -5,7 +5,7 @@
 
 ## Introduction
 
-If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration deployment using git. Seriously! You can find the live resume **[here](http://sedouard-resume.azurewebsites.net)**.
+If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration integration. Seriously! You can find the live resume **[here](http://sedouard-resume.azurewebsites.net)**.
 
 What other way can you show you know the agile development lifecycle by expressing it through your resume itself. It's just a few easy steps.
 
