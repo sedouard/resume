@@ -107,14 +107,12 @@
       "name": "C# and .NET",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "C#"
       ]
     },
     {
       "name": "Node.js",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "javascript",
         "express"
@@ -133,7 +131,7 @@
       "name": "iOS Application Development",
       "level": "Intermediate",
       "keywords": [
-        "iOS"
+        "Objective-C"
       ]
     }
   ],
