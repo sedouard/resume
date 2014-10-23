@@ -1,4 +1,4 @@
-# Building Your Resume Like a Bauss with CI
+# Building Your Resume Like a Boss with CI
 
 ![BuildStatus](https://travis-ci.org/sedouard/resume.svg?branch=master)
 
