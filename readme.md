@@ -1,11 +1,11 @@
-# Building Your Resume Like a Bauss with CI
+# Building Your Resume Like a Boss with CI
 
 ![BuildStatus](https://travis-ci.org/sedouard/resume.svg?branch=master)
 
 
 ## Introduction
 
-If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration deployment using git. Seriously! You can find the live resume **[here](http://sedouard-resume.azurewebsites.net)**.
+If you're a developer geek like I am, you'll want to check this out. This repository builds my resume using continuous integration integration. Seriously! You can find the live resume **[here](http://resume.stevenedouard.com)**.
 
 What other way can you show you know the agile development lifecycle by expressing it through your resume itself. It's just a few easy steps.
 
