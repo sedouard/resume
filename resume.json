@@ -5,7 +5,7 @@
     "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg",
     "email": "steven.edouard1@gmail.com",
     "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to persue a role where I can have high impact on a product.",
+    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -52,12 +52,12 @@
       "highlights": [
         "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
         "Leveraged Visual Studio Text Explorer by extending it to run end-to-end scenario tests ",
-        "Assisted in customer onboarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
+        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
         "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
       ]
     },
     {
-      "company": "Lockheed Martin Mission Systems and Sensors",
+      "company": "Lockheed Martin Mission Systems",
       "position": "Software Engineer Intern (4 summers)",
       "website": "http://www.lockheedmartin.com",
       "startDate": "2008-01-22",
@@ -78,7 +78,7 @@
       "website": "http://coderdojo.com/",
       "startDate": "2012-07-01",
       "endDate": "2013-05-05",
-      "summary": "Highschool Teacher for an inner-city computer science class.",
+      "summary": "High school Teacher for an inner-city computer science class.",
       "highlights": [
         "Featured in the International New York Times"
       ]
