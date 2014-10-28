@@ -118,7 +118,7 @@ git push origin master
 
 ```
 
-Now almost immeditley you'll see Azure Websites go to work:
+Now almost immeditley you'll see your deployment go to work:
 
 ![](ScreenShots/ss15.png)
 
