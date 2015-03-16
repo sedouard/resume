@@ -32,16 +32,25 @@
   "work": [
     {
       "company": "Microsoft",
+      "position": "Software Development Engineer",
+      "website": "http://microsoft.com",
+      "startDate": "2015-03-16",
+      "summary": "Technical Evangelism and Delivery - Strategic Engagements",
+      "highlights": [
+        "Responsible for building reusable solutions with Microsoft partners to drive attention and usage to Microsoft products and technologies."
+      ]
+    },
+    {
+      "company": "Microsoft",
       "position": "Developer Evangelist",
       "website": "http://microsoft.com",
       "startDate": "2014-03-04",
       "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
       "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
+        "Drove Azure usage by Student and Startup Developers",
+        "Worked with various Y-Combinator startups to bring linux workloads to Azure",
+        "Delivered Technical Presentations at Various conferences such as TC Disrupt SF, NodeConf Oakland, Stanford & Berkeley Hackathons",
+        "Created various technical content centered around open source on Azure such as blog posts and technical projects"
       ]
     },
     {
