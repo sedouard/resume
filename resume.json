@@ -5,7 +5,7 @@
     "picture": "https://avatars.githubusercontent.com/u/3053263?v=3",
     "email": "steven.edouard1@gmail.com",
     "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Advocate for Microsoft. Every day I work to empower individuals to build awesome things through open source. I hope to pursue a role where I can have high impact on products.",
+    "summary": "I am a Developer Advocate at heart. Every day I work to empower individuals to build awesome things through open source. I hope to pursue a role where I can have high impact on products and developer communities.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -33,26 +33,28 @@
     "position": "Software Development Engineer",
     "website": "https://microsoft.com",
     "startDate": "2015-03-16",
-    "summary": "Within Microsoft’s Technical Evangelism and Development team, I developed exclusively open source solutions with partners and customers to make integrating with Microsoft technology easy",
+    "summary": "Within Microsoft’s Technical Evangelism and Development team, I developed exclusively open source solutions with partners and customers to make integrating with Microsoft technology easy.",
     "highlights": [
-      "Developed reusable, open source, solutions alongside of partners from around the world",
-      "Published many case studies evangelizing collaborations with partners and open source projects",
-      "Built CI pipelines, two of which are used by Azure Engineering and Cloud Foundry, respectively",
-      "Built open source Azure Storage Explorer which formed the base of the official cross-platform Storage Explorer of Azure",
-      "Presented at various events around the world from topics ranging from DevOps to Web Development"
+      "Enabled Cloud Foundry support on Azure through open source collaboration which enabled millions in cloud spend",
+      "Built an open source cloud storage explorer which formed the base of the Microsoft's official cross-platform explorer for Azure",
+      "Contributed code to open source projects like Deis, Dokku and Meteor to run on Azure and Windows",
+      "Wrote 9 case studies evangelizing collaboration with partners and open source projects",
+      "Built CI pipelines, two of which are used by Azure Engineering and Cloud Foundry",
+      "Presented at various events around the world with topics ranging from DevOps to Web Development"
     ]
   }, {
     "company": "Microsoft",
     "position": "Developer Evangelist",
     "website": "http://microsoft.com",
     "startDate": "2014-03-04",
+    "endDate": "2015-03-16",
     "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
     "highlights": [
-      "Drove Azure usage by Student and Startup Developers",
-      "Built autonomous robotic T-Shirt cannon featured on Tech Crunch",
-      "Worked with various Y-Combinator startups to bring linux workloads to Azure",
+      "Built autonomous robotic T-Shirt cannon utilizing Kinect v2 sensor which was featured on Tech Crunch",
+      "Worked with various Y-Combinator startups to bring Linux workloads to Azure",
       "Delivered Technical Presentations at Various conferences such as TC Disrupt SF, NodeConf Oakland, Stanford & Berkeley Hackathons",
-      "Created various technical content centered around open source on Azure such as blog posts and technical videos"
+      "Created various technical content centered around open source on Azure such as blog posts and technical videos",
+      "Drove Azure usage by Student and Startup Developers"
     ]
   }, {
     "company": "Microsoft",
