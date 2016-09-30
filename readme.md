@@ -72,7 +72,7 @@ Get an Azure Account by either getting a [free trial](http://azure.microsoft.com
 
 ![](ScreenShots/ss0-0.png)
 
-If you're working on a Startup signup for [Bizspark](http//bizspark.com) or tweet at me [@sedouard](http://twitter.com/sedouard) with your plan and I'll get you a bizspark token for free Azure usage for 3 years.
+If you're working on a Startup signup for [Bizspark](http://bizspark.com) or tweet at me [@sedouard](http://twitter.com/sedouard) with your plan and I'll get you a bizspark token for free Azure usage for 3 years.
 
 
 After you get your subscription create a new website:
