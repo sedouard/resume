@@ -29,10 +29,19 @@
     }]
   },
   "work": [{
+    "company": "VMPower",
+    "position": "Founder",
+    "website": "https://vmpower.io",
+    "startDate": "2016-05-25",
+    "summary": "A cloud savings platform that enables any team or individual to save on their Virtual Machine IaaS costs.",
+    "highlights": [
+    ]
+  },{
     "company": "Microsoft",
     "position": "Software Development Engineer",
     "website": "https://microsoft.com",
     "startDate": "2015-03-16",
+    "endDate": "2016-05-25",
     "summary": "Within Microsoft’s Technical Evangelism and Development team, I developed exclusively open source solutions with partners and customers to make integrating with Microsoft technology easy.",
     "highlights": [
       "Enabled Cloud Foundry support on Azure through open source collaboration which enabled millions in cloud spend",
