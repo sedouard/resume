@@ -5,7 +5,7 @@
     "picture": "https://avatars.githubusercontent.com/u/3053263?v=3",
     "email": "steven.edouard1@gmail.com",
     "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Advocate at heart. Every day I work to empower individuals to build awesome things through open source. I hope to pursue a role where I can have high impact on products and developer communities.",
+    "summary": "I am a developer advocate at heart and engineer by trade. Solving real problems for individuals and organizations is my passion. I hope to pursue a role where I can have high impact on SaaS products and developers worldwide.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -32,16 +32,22 @@
     "company": "VMPower",
     "position": "Founder",
     "website": "https://vmpower.io",
-    "startDate": "2016-05-25",
-    "summary": "A cloud savings platform that enables any team or individual to save on their Virtual Machine IaaS costs.",
+    "startDate": "2016-07-05",
+    "summary": "A hybrid cloud savings platform that enables system administrators to save on their Virtual Machine IaaS costs through unique automations.",
     "highlights": [
+      "Created a hybrid SaaS product that integrated to 3 different Cloud IaaS Platforms (AWS, GCE, Azure)",
+      "Drove sales and marketing efforts resulting in the integration of $150,000/year in IaaS Virtual Machines from users in 15 countries",
+      "Saved tens of thousands of dollars (USD) in annual cloud cost",
+      "Leveraged relevant data technologies such as Elasticsearch, Redis, MongoDB and queue messaging",
+      "Built with RESTful, JSON-API compliant, APIs (via Node.js) with Ember.js frontend and docker-based background micro-services",
+      "Utilized best practices such as modularized design, unit testing, CI/CD and Staging/Production deployments"
     ]
   },{
     "company": "Microsoft",
     "position": "Software Development Engineer",
     "website": "https://microsoft.com",
     "startDate": "2015-03-16",
-    "endDate": "2016-05-25",
+    "endDate": "2016-07-04",
     "summary": "Within Microsoft’s Technical Evangelism and Development team, I developed exclusively open source solutions with partners and customers to make integrating with Microsoft technology easy.",
     "highlights": [
       "Enabled Cloud Foundry support on Azure through open source collaboration which enabled millions in cloud spend",
